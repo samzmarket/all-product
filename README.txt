@@ -99,5 +99,8 @@ IDENTITAS TOKO
 --------------
 Nama       : SAMZ MARKET
 Slogan     : Solusi Digital Tanpa Ribet
-WhatsApp   : 0895371030339
-Link       : https://wa.me/62895371030339
+WhatsApp Admin 1 : 0895371030339
+Link Admin 1     : https://wa.me/62895371030339
+WhatsApp Admin 2 : 082334292520
+Link Admin 2     : https://wa.me/6282334292520
+Checkout         : Pembeli dapat memilih Admin 1 atau Admin 2 untuk menerima ringkasan pesanan dan bukti pembayaran.
